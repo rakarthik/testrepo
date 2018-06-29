@@ -4,3 +4,8 @@ This is sample menu card
 2. Poori
 3. Idly
 4. Chappati
+
+5. Singapore Noodles
+6. Manchurian
+7. Dragon Potato
+8. Thai Fried Rice
