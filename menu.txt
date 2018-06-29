@@ -1,0 +1,6 @@
+This is sample menu card
+
+1. Onion Rost
+2. Poori
+3. Idly
+4. Chappati
