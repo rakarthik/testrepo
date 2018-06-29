@@ -9,3 +9,8 @@ This is sample menu card
 6. Manchurian
 7. Dragon Potato
 8. Thai Fried Rice
+
+9. Plain Briyani
+10. Kashmiri Pulov
+11. Egg Briyani
+12. Chicken Briyani
