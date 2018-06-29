@@ -1,4 +1,4 @@
-This is sample menu card
+** This is sample menu card **
 
 1. Onion Rost
 2. Poori
