@@ -9,3 +9,15 @@ This is sample menu card
 6. Manchurian
 7. Dragon Potato
 8. Thai Fried Rice
+
+
+
+
+
+
+13. Sugar Cane Juice
+14. Pepsi
+15. Coke
+16. Ice Cream
+
+** Menu END **
